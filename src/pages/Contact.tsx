@@ -56,15 +56,15 @@ const Contact = () => {
               <div className="space-y-4">
                 <div className="flex items-center">
                   <Mail className="text-blue-600 mr-3" size={20} />
-                  <span>support@learnhub.com</span>
+                  <span>aaravshah932@gmail.com</span>
                 </div>
                 <div className="flex items-center">
                   <Phone className="text-blue-600 mr-3" size={20} />
-                  <span>+1 (555) 123-4567</span>
+                  <span>+91 9234670937</span>
                 </div>
                 <div className="flex items-center">
                   <MapPin className="text-blue-600 mr-3" size={20} />
-                  <span>123 Learning Street, Education City, 12345</span>
+                  <span>Birgunj, Nepal</span>
                 </div>
               </div>
             </div>
@@ -72,9 +72,7 @@ const Contact = () => {
             <div className="bg-white rounded-xl shadow-md p-8">
               <h2 className="text-2xl font-semibold mb-6">Office Hours</h2>
               <div className="space-y-2">
-                <p>Monday - Friday: 9:00 AM - 6:00 PM</p>
-                <p>Saturday: 10:00 AM - 4:00 PM</p>
-                <p>Sunday: Closed</p>
+                <p>Always Available for Students Welfare ☺️ </p>
               </div>
             </div>
           </div>
