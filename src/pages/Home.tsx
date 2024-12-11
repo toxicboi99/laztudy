@@ -1,8 +1,12 @@
 import React from 'react';
 import { ArrowRight } from 'lucide-react';
-
-const Home = () => {
+import Slider from '../components/slider';
+import Pro from '../components/Pro';
+import Footer from '../components/Footer';
+const Home: React.FC = () => {
   return (
+    <>
+    <Slider />
     <div className="min-h-screen bg-gradient-to-b from-blue-50 to-white">
       <div className="max-w-7xl mx-auto px-4 py-16">
         <div className="text-center mb-16">
@@ -54,6 +58,10 @@ const Home = () => {
         </div>
       </div>
     </div>
+  <Pro />
+  <br></br>
+  <Footer />
+    </>
   );
 };
 
