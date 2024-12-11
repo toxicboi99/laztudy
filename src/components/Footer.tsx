@@ -16,10 +16,10 @@ const Footer: React.FC = () => {
           <div>
             <h2 className="text-lg font-semibold text-white dark:text-white">Business Details</h2>
             <p className="mt-2 text-sm text-gray-400 dark:text-gray-400">
-              123 Learning St.<br />
+              Laztudy.<br />
               Education City, EC 45678<br />
-              Phone: (123) 456-7890<br />
-              Email: info@learnhub.com
+              Phone: (+91) 9234670937<br />
+              Email: laztudy932@gmail.com
             </p>
           </div>
 
